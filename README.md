@@ -17,7 +17,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills & Learning In Progress
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,tailwind,js,ts,react,next,supabase,postgres,git,vscode,vercel" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,tailwind,js,ts,react,next,supabase,postgres,git,vscode,vercel" />
 <br>
 
 
